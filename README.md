@@ -1,2 +1,4 @@
 # JAVA_2016
-Mi primer repositorio en GITHUB
+-Pronto serè un gran programador
+-yehh
+-Mi primer repositorio en GITHUB
